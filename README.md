@@ -7,8 +7,12 @@
 ### 配置
 #### webpack.config.js
 ```
+    npm install webpack-cdn-reload
+```
+
+```
     import HtmlWebpackPlugin from 'html-webpack-plugin';
-    import WebpackCdnReloadPlugin from 'webpack-cdn-reload-plugin';
+    import WebpackCdnReloadPlugin from 'webpack-cdn-reload';
     plugins:[
         // webpack内置的htmlwebpackplugin是必须的，并且引用顺序必须在插件之前。
         new HtmlWebpackPlugin({

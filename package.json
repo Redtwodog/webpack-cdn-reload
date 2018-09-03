@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "redtwodog@qq.com",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Redtwodog/webpack-cdn-reload"
+  },
   "dependencies": {
     "webpack": "^3.0.0",
     "lodash" : "^4.0.0"
