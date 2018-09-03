@@ -1,6 +1,6 @@
 {
   "name": "webpack-cdn-reload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Inject other cdn domail ,if 404 replace and reload",
   "main": "index.js",
   "author": "redtwodog@qq.com",
